@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4 juil. 2016, 16:28:33
+    Author     : Sylvain ZEZE
+*/
+
+
+.noir{
+    background-color: black;
+    color: white;
+}
+.menu{
+    background-color: #245269;
+    color: white;
+    
+ padding: 30px;
+    
+}
+.lien{
+  color: white;  
+  font-size: 25px;
+  margin: 30px;
+  
+}
+.corps{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.pied{
+    background-color: black;
+    color: #ccc;
+}
+.titre_entete{
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+    
+}
+
+.titre{
+  text-align: center;
+  
+  
+  
+  color: #245269; 
+}
+
+.pouss_bouton_acceuil{
+    margin-left: 30%;
+}
+
+input ,select{
+   
+    padding: 12px 20px;
+    margin: 8px 0;
+
+  
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+input:focus {
+    
+    border: 3px solid #555;
+}
+
+fieldset{
+
+    padding: .35em .625em .75em !important;
+    border: 1px solid lightgrey !important;
+}

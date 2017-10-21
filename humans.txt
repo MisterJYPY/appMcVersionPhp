@@ -1,0 +1,39 @@
+ 
+  /* TEAM */
+                               
+    Your title: NANOU KAKOU JEAN PAUL.
+
+                                
+    Site: nanoukakoujeanpaul@gmail.com
+
+                                
+    Twitter: NANOU KAKOU.
+
+                                
+    Location: ABIDJAN, COTE D'IVOIRE.
+
+                        [...]
+    							
+    /* THANKS */
+
+    							
+    Name: name or url
+                        [...]      
+    /* SITE */
+
+                                
+    Last update: 2017/02/10
+
+                                
+    Standards: HTML5, CSS3,PHP5..
+
+                                
+    Components: jQuery,Ajax etc.
+
+                                
+    Software: Template Boostrap
+       
+                            
+
+
+                    

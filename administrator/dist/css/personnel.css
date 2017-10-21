@@ -1,0 +1,60 @@
+.titres
+{
+    color:rgb(77,0,0);
+}
+.sous-titre
+{
+   color:rgb(26,19,0);
+}
+.sous-titre-ul
+{
+   color:rgb(170,43,0);  
+}
+.sous-titre-ul-sous
+{
+  color:rgb(102,0,51);    
+}
+.bilan
+{
+   color:rgb(139,105,3);  
+}
+.valeurB
+{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(32,0,0);
+}
+.valeurBD
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(31,26,55);
+}
+.popover-title {
+background-color: #f7f7f7;
+border-bottom: 1px solid #ebebeb;
+border-radius: 5px 5px 0 0;
+color: #000000;
+font-size: 14px;
+font-weight: normal;
+line-height: 18px;
+margin: 0;
+padding: 8px 14px;
+}
+/* popover-content est à modifier pour le contenu de la popover */
+.popover-content {
+background-color: #f7f7f7;
+border-bottom: 1px solid #ebebeb;
+border-radius: 5px 5px 0 0;
+color: #000000;
+font-size: 14px;
+font-weight: normal;
+line-height: 18px;
+margin: 0;
+padding: 8px 14px;
+}
+.annee
+{
+    font-size: 17px;
+    color: #000000;
+}
